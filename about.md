@@ -12,7 +12,7 @@ Hello! I'm Michael Berthold. This is my personal website where I share my work, 
 
 ### Profile Picture
 
-![Michael Berthold Profile]({{ site.baseurl }}/assets/images/profile-placeholder.jpg){: style="max-width: 300px; border-radius: 8px; margin: 20px 0;"}
+[Michael Berthold Profile]({{ site.baseurl }}/assets/images/Berthold2025.jpg){: style="max-width: 300px; border-radius: 8px; margin: 20px 0;"}
 
 *Profile picture to be added*
 

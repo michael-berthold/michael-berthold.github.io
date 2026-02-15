@@ -2,7 +2,7 @@ title: Michael Berthold
 description: Personal website and portfolio
 baseurl: ""
 url: "https://michael-berthold.github.io"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 
 # Build settings
 markdown: kramdown

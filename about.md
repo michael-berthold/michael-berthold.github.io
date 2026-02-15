@@ -60,8 +60,8 @@ permalink: /about/
 </style>
 
 <div class="language-toggle">
-  <button id="btn-english" class="active" onclick="switchLanguage('en')">English</button>
-  <button id="btn-german" onclick="switchLanguage('de')">Deutsch</button>
+  <button id="btn-english" class="active">English</button>
+  <button id="btn-german">Deutsch</button>
 </div>
 
 <div id="content-english" class="language-section active">
@@ -107,6 +107,11 @@ Hallo! Ich bin Michael Berthold. Dies ist meine persönliche Website, auf der ic
 <script>
 // Language toggle functionality
 function switchLanguage(lang) {
+  // Validate language parameter to prevent XSS
+  if (lang !== 'en' && lang !== 'de') {
+    return;
+  }
+  
   // Update active states for buttons
   const btnEnglish = document.getElementById('btn-english');
   const btnGerman = document.getElementById('btn-german');
@@ -129,10 +134,23 @@ function switchLanguage(lang) {
   localStorage.setItem('preferredLanguage', lang);
 }
 
-// Load saved language preference on page load
+// Initialize event listeners and load saved preference on page load
 document.addEventListener('DOMContentLoaded', function() {
+  // Attach event listeners to buttons
+  const btnEnglish = document.getElementById('btn-english');
+  const btnGerman = document.getElementById('btn-german');
+  
+  btnEnglish.addEventListener('click', function() {
+    switchLanguage('en');
+  });
+  
+  btnGerman.addEventListener('click', function() {
+    switchLanguage('de');
+  });
+  
+  // Load saved language preference with validation
   const savedLang = localStorage.getItem('preferredLanguage');
-  if (savedLang) {
+  if (savedLang === 'en' || savedLang === 'de') {
     switchLanguage(savedLang);
   }
 });

@@ -24,10 +24,10 @@ permalink: /publications/
 ## Books
 
 -   Berthold, Michael R.; Borgelt, Christian; Höppner, Frank, Klawonn,
-    Frank / Silipo Rosaria, \"Guide to Intelligent Data Science \",
+    Frank; Silipo, Rosaria, \"Guide to Intelligent Data Science \",
     Springer-Verlag, 2020.
 
--   Berthold, Michael R.; Borgelt, Christian; Höppner, Frank & Klawonn,
+-   Berthold, Michael R.; Borgelt, Christian; Höppner, Frank; Klawonn,
     Frank, \"Guide to Intelligent Data Analysis: How to Intelligently
     Make Sense of Real Data\", Springer-Verlag, 2010.
 

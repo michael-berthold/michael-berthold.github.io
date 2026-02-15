@@ -3,20 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
-    <link rel="stylesheet" href="/css/styles.css">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
     <nav>
         <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/contact">Contact</a></li>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/musings/">Musings</a></li>
+            <li><a href="/videos/">Videos</a></li>
+            <li><a href="/publications/">Publications</a></li>
         </ul>
     </nav>
     <main>
-        <h1>Welcome to my website</h1>
-        <p>This is the main content area.</p>
+        {{ content }}
     </main>
     <footer>
         <p>&copy; 2026 Michael Berthold</p>

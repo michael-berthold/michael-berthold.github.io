@@ -4,9 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-# About Me / Über Mich
-
-## English
+# About Me
 
 Hello! I'm Michael Berthold. This is my personal website where I share my work, thoughts, and publications.
 
@@ -26,15 +24,10 @@ Hello! I'm Michael Berthold. This is my personal website where I share my work, 
 
 ---
 
-## Deutsch
+# Über mich
 
 Hallo! Ich bin Michael Berthold. Dies ist meine persönliche Website, auf der ich meine Arbeit, Gedanken und Veröffentlichungen teile.
 
-### Profilbild
-
-![Michael Berthold Profilbild]({{ site.baseurl }}/assets/images/profile-placeholder.jpg){: style="max-width: 300px; border-radius: 8px; margin: 20px 0;"}
-
-*Profilbild wird noch hinzugefügt*
 
 ### Hintergrund
 

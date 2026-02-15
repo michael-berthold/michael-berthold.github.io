@@ -1,38 +1,23 @@
-/**
- * Navigation Bar Styles
- */
-nav {
-    background: linear-gradient(to right, #4a90e2, #9013fe); /* Gradient Background */
-    padding: 10px 20px; /* Proper Spacing */
-    display: flex; /* Flexbox for layout */
-    justify-content: space-between; /* Space between items */
-    align-items: center; /* Center items vertically */
+@import url('https://fonts.googleapis.com/css2?display=swap&family=Inter:wght@400;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
 }
 
-nav ul {
-    list-style: none; /* Remove default list styles */
-    padding: 0; /* Remove padding */
-    margin: 0; /* Remove margin */
-    display: flex; /* Flexbox for horizontal layout */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    margin: 0 0 10px;
 }
 
-nav ul li {
-    margin: 0 15px; /* Spacing between items */
+p {
+    margin: 0 0 15px;
 }
 
-nav ul li a {
-    text-decoration: none; /* Remove underline */
-    color: white; /* Link color */
-    font-weight: bold; /* Bold text */
-}
-
-nav ul li a:hover {
-    opacity: 0.8; /* Hover effect */
-}
-
-/* Responsive design */
-@media (max-width: 768px) {
-    nav {
-        flex-direction: column; /* Stack items vertically */
-    }
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
 }

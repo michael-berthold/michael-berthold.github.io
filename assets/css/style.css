@@ -10,7 +10,8 @@ body {
 
 /* Navigation bar styling */
 .navbar {
-    background: linear-gradient(90deg, #ff7e5f, #feb47b);
+    /* redish: background: linear-gradient(90deg, #ff7e5f, #feb47b); */
+    background: linear-gradient(90deg, #2b2b2b, #7a7a7a);
     padding: 10px 20px;
 }
 

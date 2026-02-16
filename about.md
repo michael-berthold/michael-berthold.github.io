@@ -14,15 +14,15 @@ permalink: /about/
 }
 
 .language-toggle button {
-  padding: 10px 20px;
+  padding: 2px 4px;
   border: 2px solid #2b2b2b;
   background-color: white;
   color: #2b2b2b;
   font-family: 'Inter', sans-serif;
-  font-size: 16px;
+  font-size: 12px;
   font-weight: 600;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 2px;
   transition: all 0.3s ease;
 }
 
@@ -60,8 +60,8 @@ permalink: /about/
 </style>
 
 <div class="language-toggle">
-  <button id="btn-english" class="active">English</button>
-  <button id="btn-german">Deutsch</button>
+  <button id="btn-english" class="active">en</button>
+  <button id="btn-german">de</button>
 </div>
 
 <div id="content-english" class="language-section active" markdown="1">

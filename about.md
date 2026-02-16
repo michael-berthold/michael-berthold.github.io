@@ -15,9 +15,9 @@ permalink: /about/
 
 .language-toggle button {
   padding: 10px 20px;
-  border: 2px solid #ff7e5f;
+  border: 2px solid #2b2b2b;
   background-color: white;
-  color: #ff7e5f;
+  color: #2b2b2b;
   font-family: 'Inter', sans-serif;
   font-size: 16px;
   font-weight: 600;
@@ -27,15 +27,15 @@ permalink: /about/
 }
 
 .language-toggle button:hover {
-  background-color: #fff5f2;
+  background-color: #7a7a7a;
   transform: translateY(-2px);
 }
 
 .language-toggle button.active {
-  background: linear-gradient(90deg, #ff7e5f, #feb47b);
+  background: linear-gradient(90deg, #2b2b2b, #3b3b3b);
   color: white;
-  border-color: #ff7e5f;
-  box-shadow: 0 4px 8px rgba(255, 126, 95, 0.3);
+  border-color: #2b2b2b;
+  box-shadow: 0 4px 8px rgba(126, 126, 126, 0.3);
 }
 
 .language-section {

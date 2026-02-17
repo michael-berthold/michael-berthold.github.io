@@ -10,14 +10,14 @@ A selection of my presentation videos and recorded talks.
 
 ## Featured Presentations
 
-### Presentation Title - [Year]
+### Video Title - 2026
 
-{% raw %}
-<div style="margin: 20px 0; padding: 20px; background-color: #f5f5f5; border-radius: 8px;">
-  <p>Video placeholder - Video to be added</p>
-  <p style="color: #666; font-size: 0.9em;">Description and details about the presentation will be added here.</p>
-</div>
-{% endraw %}
+<video width="100%" controls style="margin: 20px 0; border-radius: 8px;">
+  <source src="https://embed-ssl.wistia.com/deliveries/d08fc92f7772b2a33923a3643096a618.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<p style="margin: 20px 0; color: #333;">Description of the presentation will be added here.</p>
 
 ---
 

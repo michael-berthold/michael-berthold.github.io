@@ -4,7 +4,7 @@ There is a lot of talk about bias in AI and how it results in bad and sometimes 
 
 ### What exactly is Bias?
 
-By now there are plenty of examples of bias in AIs: there are the classic examples were we know immediately that it’s bad and also where it likely comes from, for example nurses being depicted as female vs the doctor being a man. That is clearly an issue stemming from historical and hence outdated training examples. But there are also examples of AI acting overly optimistic or rigid, where the origin is less obvious. And then there are more technical bias examples such as an AI focusing more on the beginning and the end of a prompt - which seems to match human laziness - but is even less clear to explain technically.
+By now there are plenty of examples of bias in AIs: there are the classic examples were we know immediately that it's bad and also where it likely comes from, for example nurses being depicted as female vs the doctor being a man. That is clearly an issue stemming from historical and hence outdated training examples. But there are also examples of AI acting overly optimistic or rigid, where the origin is less obvious. And then there are more technical bias examples such as an AI focusing more on the beginning and the end of a prompt - which seems to match human laziness - but is even less clear to explain technically.
 
 But there are also biases that we are willing to accepted: we would be surprised if an AI generated a picture of a Nazi showing a person having a dark skin color of if an AI assumed elephants with 5 legs are totally fine. Those are biases, too, but somehow we are ok with them.
 
@@ -15,7 +15,12 @@ Bias comes from some sort of limitation: either limited flexibility/resources or
 Let’s dive a bit deeper to understand how this happens – and why it is needed.
 From machine learning theory – and if we call it AI or not, all the methods used to build and train modern AI systems **are** founded in machine learning – we know there are different types of bias: the way we find (or \"train\") a model injects a bias. But also, the types of models we consider causes bias. And finally, the data we use for training presents a bias. Machine Learning theory also tells us that some sort of bias during learning is needed in order for a model to \"generalize\", which essentially means: produce output also for cases that are not present exactly in the training data – otherwise our model would just memorize all of the training data and be unable to present an output for something not seen before. There is a theory behind that, of course, but it's easy to illustrate the underlying principle so the idea behind that theory becomes clearer.
 
-Let's assume we have a very simple problem: based on some input values we want to predict output values. Figure 1 shows a couple of training points: the horizontal axis are the inputs; the vertical axis shows the outputs. We now want to train a model that helps us predict outputs also in-between (or to the left/right of) the data points we had available during training. A classic regression problem, right? The natural instinct is to draw a straight line and use that as \"model\": see Figure 2. That seems to be the only one and best solution.
+Let's assume we have a very simple problem: based on some input values we want to predict output values. Figure 1 shows a couple of training points: the horizontal axis are the inputs; the vertical axis shows the outputs.
+
+![Diagram showing training data.](./2026-03-05-assets/Slide1.PNG)
+Figure 1.
+
+We now want to train a model that helps us predict outputs also in-between (or to the left/right of) the data points we had available during training. A classic regression problem, right? The natural instinct is to draw a straight line and use that as \"model\": see Figure 2. That seems to be the only one and best solution.
 
 But by doing this, we have already injected a bias: we have limited the types of models we can use (only a straight line). Figure 3 shows two examples for models that come from a different family: and as we can see, they do fit the training data even better, but they also produce widely different predictions for points that aren't exactly our training data points. Clearly the choice of model influences heavily what kind of generalizations are possible. We call this \"model bias\".
 
@@ -42,3 +47,4 @@ In short: AI needs bias to learn. Much of this bias simply describes how our wor
 A human, who never left the UK, will be exposed to lots of information about villains with a thick German accent. But if that person is just little open-minded, there is plenty of other material around that puts this bias into (historical) perspective. Humans – who are willing to adjust for their biases – can do this, but it requires connecting very different types of information they learn through observation but even more likely through reading and debating with others.
 
 So far, we can only address some obvious biases in AI system. We can't build AIs that can do adjust for their built-in biases based on other knowledge. Until we figure out how to do that -– if we ever do -- we need to continue to question their responses and detect the influence of those many other biases ourselves.
+

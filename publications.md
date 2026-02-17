@@ -4,44 +4,31 @@ title: Publications
 permalink: /publications/
 ---
 
-## Select Thought Leadership / Industry Commentary (Non--Peer-Reviewed)
+## Select Thought Leadership / Industry Commentary
 
--   Berthold, Michael. \"3 risks hindering enterprise-ready AI --- and
-    how low-code workflows help\", TechRadar, 27 January 2026.
+-   Berthold, Michael. [_3 risks hindering enterprise-ready AI --- and how low-code workflows help_](https://www.techradar.com/pro/3-risks-hindering-enterprise-ready-ai-and-how-low-code-workflows-help), **TechRadar**, 27 January 2026.
 
--   Berthold, Michael. \"Are Your AI Co-Pilots Trapping Data in Isolated
-    Silos? \", The New Stack, 9 September 2025.
+-   Berthold, Michael. _Are Your AI Co-Pilots Trapping Data in Isolated Silos?_, **The New Stack**, 9 September 2025.
 
--   Berthold, Michael. \"Data Science -- ist Künstliche Intelligenz die
-    Zukunft der Datenarbeit? \", BigData-Insider, 23 December 2024.
+-   Berthold, Michael. _Data Science -- ist Künstliche Intelligenz die Zukunft der Datenarbeit?_, **BigData-Insider**, 23 December 2024.
 
--   Berthold, Michael. \"Missing the T? Data Storage ETL an Oversight,
-    says KNIME CEO.\" Solutions Review (Expert Insights), 30 March 2023.
+-   Berthold, Michael. _Missing the T? Data Storage ETL an Oversight, says KNIME CEO._, **Solutions Review** (Expert Insights), 30 March 2023.
 
--   Berthold, Michael. \"How visual programming powers complex data
-    science\", TechRadar, 1 June 2021.
+-   Berthold, Michael. _How visual programming powers complex data science_, **TechRadar**, 1 June 2021.
 
 ## Books
 
--   Berthold, Michael R.; Borgelt, Christian; Höppner, Frank, Klawonn,
-    Frank; Silipo, Rosaria, \"Guide to Intelligent Data Science \",
-    Springer-Verlag, 2020.
+-   Berthold, Michael R.; Borgelt, Christian; Höppner, Frank; Klawonn, Frank; Silipo, Rosaria. _Guide to Intelligent Data Science_, Springer-Verlag, 2020.
 
--   Berthold, Michael R.; Borgelt, Christian; Höppner, Frank; Klawonn,
-    Frank, \"Guide to Intelligent Data Analysis: How to Intelligently
-    Make Sense of Real Data\", Springer-Verlag, 2010.
+-   Berthold, Michael R.; Borgelt, Christian; Höppner, Frank; Klawonn, Frank. _Guide to Intelligent Data Analysis: How to Intelligently Make Sense of Real Data_, Springer-Verlag, 2010.
 
--   Berthold, Michael R. & Hand, David J. \"Intelligent Data Analysis:
-    An Introduction\", 2^nd^ revised edition, Springer Verlag, 2003.
+-   Berthold, Michael R.; Hand, David J. _Intelligent Data Analysis: An Introduction_, 2^nd^ revised edition, Springer Verlag, 2003.
 
 ## Edited Volumes
 
--   Berthold, Michael R.; Feelders, Ad; Krempl, Georg (Eds.) "Advances
-    in Intelligent Data Analysis XVIII: 18th International Symposium on
-    Intelligent Data Analysis, IDA 2020", Springer Verlag, 2020.
+-   Berthold, Michael R.; Feelders, Ad; Krempl, Georg (Eds.) _Advances in Intelligent Data Analysis XVIII: 18th International Symposium on Intelligent Data Analysis, IDA 2020_, Springer Verlag, 2020.
 
--   Berthold, Michael R. (eds) \"Bisociative Knowledge Discovery\",
-    Springer Verlag, 2012.
+-   Berthold, Michael R. (eds) [_Bisociative Knowledge Discovery_ (https://link.springer.com/book/10.1007/978-3-642-31830-6), Springer Verlag, 2012.
 
 -   Kruse, Rudolf; Berthold, Michael R.; Moewes, Christian; Gil, Maria
     Angeles; Grzegorzewiski, Przemyslaw & Hryniewicz, Olgierd (eds)

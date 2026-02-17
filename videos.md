@@ -6,11 +6,10 @@ permalink: /videos/
 
 # Presentations & Videos
 
-A selection of my presentation videos and recorded talks.
+A selection of recent presentations.
 
-## Featured Presentations
-
-### KNIME Summit 2025 - "Good Data makes Good Agents"
+## "Good Data Makes Good Agents"
+### KNIME Summit 2025
 
 <video width="100%" controls style="margin: 20px 0; border-radius: 8px;">
   <source src="https://embed-ssl.wistia.com/deliveries/d08fc92f7772b2a33923a3643096a618.mp4" type="video/mp4">

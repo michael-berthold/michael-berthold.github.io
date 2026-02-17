@@ -28,7 +28,7 @@ permalink: /publications/
 
 -   Berthold, Michael R.; Feelders, Ad; Krempl, Georg (Eds.) _Advances in Intelligent Data Analysis XVIII: 18th International Symposium on Intelligent Data Analysis, IDA 2020_, Springer Verlag, 2020.
 
--   Berthold, Michael R. (eds) [_Bisociative Knowledge Discovery_ (https://link.springer.com/book/10.1007/978-3-642-31830-6), Springer Verlag, 2012.
+-   Berthold, Michael R. (eds) [_Bisociative Knowledge Discovery_](https://link.springer.com/book/10.1007/978-3-642-31830-6), Springer Verlag, 2012.
 
 -   Kruse, Rudolf; Berthold, Michael R.; Moewes, Christian; Gil, Maria
     Angeles; Grzegorzewiski, Przemyslaw & Hryniewicz, Olgierd (eds)

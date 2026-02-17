@@ -17,8 +17,8 @@ A selection of my presentation videos and recorded talks.
   Your browser does not support the video tag.
 </video>
 
-<p style="margin: 20px 0; color: #333;">Description of the presentation will be added here.</p>
+<p style="margin: 20px 0; color: #333;">In the presentation I describe how agents using data needs ways to communicate their activities - both for collaboration as well as for validation of their actions.</p>
 
 ---
 
-*More videos coming soon. Check back for updates!*
+*More videos coming soon.*

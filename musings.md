@@ -4,11 +4,10 @@ title: Musings
 permalink: /musings/
 ---
 
-# Musings
 
-A collection of my articles, thoughts, and reflections on technology, innovation, and more.
+### Recent musings, thoughts, and reflections on technology, innovation, and more.
 
-## Recent Articles
+
 
 {% for post in site.posts %}
   <div style="margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #ddd;">

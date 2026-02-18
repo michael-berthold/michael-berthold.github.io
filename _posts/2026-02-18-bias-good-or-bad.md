@@ -20,7 +20,7 @@ From machine learning theory – and if we call it AI or not, all the methods us
 Let's assume we have a very simple problem: based on some input values we want to predict output values. Figure 1 shows a couple of training points: the horizontal axis are the inputs; the vertical axis shows the outputs.
 
 <p align="center">
-![Diagram showing training data.]({{"_posts/2026-03-05-assets/Slide1.PNG" | relative_url }})
+![Diagram showing training data.]({{ "/assets/images/Slide1.PNG" | relative_url }})
 <br>
 Figure 1.
 </p>

@@ -22,7 +22,7 @@ Let's assume we have a very simple problem: based on some input values we want t
 <p align="center">
 ![Diagram showing training data.]({{ "/assets/images/Slide1.PNG" | relative_url }})
 <br>
-Figure 1.
+Figure 1. A simple example of training data.
 </p>
 
 We now want to train a model that helps us predict outputs also in-between (or to the left/right of) the data points we had available during training. A classic regression problem, right? The natural instinct is to draw a straight line and use that as \"model\": see Figure 2. That seems to be the only one and best solution.
@@ -52,6 +52,7 @@ In short: AI needs bias to learn. Much of this bias simply describes how our wor
 A human, who never left the UK, will be exposed to lots of information about villains with a thick German accent. But if that person is just little open-minded, there is plenty of other material around that puts this bias into (historical) perspective. Humans – who are willing to adjust for their biases – can do this, but it requires connecting very different types of information they learn through observation but even more likely through reading and debating with others.
 
 So far, we can only address some obvious biases in AI system. We can't build AIs that can do adjust for their built-in biases based on other knowledge. Until we figure out how to do that -– if we ever do -- we need to continue to question their responses and detect the influence of those many other biases ourselves.
+
 
 
 

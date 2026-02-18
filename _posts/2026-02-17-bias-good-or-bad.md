@@ -2,6 +2,8 @@
 
 There is a lot of talk about bias in AI and how it results in bad and sometimes even harmful answers. But if you peel back a layer, the picture becomes more nuanced. In fact, without *any* bias, AI systems are useless and produce only random results when asked to produce new outputs. So the question really is which biases are the ones we want to keep and which ones we want to remove.
 
+<!-- more -->
+
 ### What exactly is Bias?
 
 By now there are plenty of examples of bias in AIs: there are the classic examples were we know immediately that it's bad and also where it likely comes from, for example nurses being depicted as female vs the doctor being a man. That is clearly an issue stemming from historical and hence outdated training examples. But there are also examples of AI acting overly optimistic or rigid, where the origin is less obvious. And then there are more technical bias examples such as an AI focusing more on the beginning and the end of a prompt - which seems to match human laziness - but is even less clear to explain technically.
@@ -50,6 +52,7 @@ In short: AI needs bias to learn. Much of this bias simply describes how our wor
 A human, who never left the UK, will be exposed to lots of information about villains with a thick German accent. But if that person is just little open-minded, there is plenty of other material around that puts this bias into (historical) perspective. Humans – who are willing to adjust for their biases – can do this, but it requires connecting very different types of information they learn through observation but even more likely through reading and debating with others.
 
 So far, we can only address some obvious biases in AI system. We can't build AIs that can do adjust for their built-in biases based on other knowledge. Until we figure out how to do that -– if we ever do -- we need to continue to question their responses and detect the influence of those many other biases ourselves.
+
 
 
 

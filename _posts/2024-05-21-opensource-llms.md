@@ -9,6 +9,8 @@ and potentially dangerous technology into evil peoples hands and claim that we n
 to control who has access and be able to protect the technology so it ca not be used for
 bad (unethical, illegal, ...) purposes.
 
+<!-- more -->
+
 This is a legit debate and if (and that is a big if!) all those big players were really
 bought into the responsible-use cause of the debate, I would side with them. If (and this
 is the other big if), we could guarantee nobody could actually get access to their code

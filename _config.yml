@@ -6,6 +6,7 @@ theme: jekyll-theme-minimal
 
 # Build settings
 markdown: kramdown
+excerpt_separator: "<!-- more -->"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

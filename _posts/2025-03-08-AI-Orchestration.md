@@ -1,5 +1,5 @@
 ---
-title: Agentic AI Orchestration: Can Generalists Outperform Specialists?
+title: Open Sourcing LLMs - is it really all about Ethics?
 author: Michael Berthold
 ---
 
@@ -54,6 +54,7 @@ It is likely that in the future part of what vendors charge us will not be due t
 A good strategy today is to follow a multi‑track approach. Use built‑in vendor agents initially and simultaneously develop a cross‑system AI orchestration structure. Before long, this layer can take over most specialist tasks. Observing usage patterns will show which specialized AIs are still actually used — and as with search engines in the past, the generalist will become the go‑to agent.
 
 Unlike humans, agents have no problem stuffing more and more into their \"heads\". They never get tired of absorbing, processing, and using new information — and above all, they never forget or overlook anything.
+
 
 
 

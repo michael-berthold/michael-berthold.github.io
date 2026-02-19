@@ -3,8 +3,6 @@ title: Open Sourcing LLMs - is it really all about Ethics?
 author: Michael Berthold
 ---
 
-## Open Sourcing LLMs - is it really all about Ethics?
-
 Should GenAI be open source? That debate typically focuses on the risks of giving
 everybody with sufficient compute resources the ability to run LLMs. The pro-arguments
 center on the reproduction of published results (and proper benchmarking/comparing of

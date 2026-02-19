@@ -5,6 +5,8 @@ author: Michael Berthold
 
 AI functionality is now integrated into nearly every piece of business software. Almost all vendors offer copilots that assist users with operation and routine tasks — significantly increasing productivity. A Microsoft report, for example, shows that 3 out of 4 Word users use Copilot for initial drafts, achieving an average productivity increase of 10–15 percent. And the next evolutionary stage is already on the horizon: \"agentic\" systems that consolidate data from various systems, interpret it, and increasingly prepare or even make autonomous decisions.
 
+<!-- more -->
+
 As a result, many software vendors are now adopting AI assistants that analyze the information and data managed within their applications — with varying degrees of intelligence. This not only makes the software itself more attractive but also creates additional revenue streams: in addition to normal software usage fees, there are now additional charges for AI usage. This means not only does software usage itself become more efficient, but the information collected across the organization can be used more creatively, moving beyond the typical predefined dashboards or manual reporting mechanisms to unlock existing data assets.
 
 ### The Challenge: Fragmentation and Data Silos
@@ -54,6 +56,7 @@ It is likely that in the future part of what vendors charge us will not be due t
 A good strategy today is to follow a multi‑track approach. Use built‑in vendor agents initially and simultaneously develop a cross‑system AI orchestration structure. Before long, this layer can take over most specialist tasks. Observing usage patterns will show which specialized AIs are still actually used — and as with search engines in the past, the generalist will become the go‑to agent.
 
 Unlike humans, agents have no problem stuffing more and more into their \"heads\". They never get tired of absorbing, processing, and using new information — and above all, they never forget or overlook anything.
+
 
 
 

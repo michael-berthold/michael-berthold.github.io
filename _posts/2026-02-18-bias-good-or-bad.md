@@ -64,7 +64,7 @@ What we have tried to demonstrate here using a simple example is what Machine Le
 
 Most often, the \"data bias\" is used as an explanation for bias in AI. In the (luckily: increasingly distant) past, it was more likely for nurses to be female and doctors to be male. Nazis were primarily white men. And elephants have four legs. These likelihoods are reflected in the training data and since an AI learns from that data, it will reflect this likelihood also in its answers. It has no way of knowing which of those biases are ok to have and which ones are unwanted.
 
-Model and Algorithm Bias are less prominently discussed when we talk about modern AI models, but they are absolutely worth keeping in mind as well. Typical large scale AI models have billions of parameters and hence very little model bias, coupled with a training algorithm that is usually optimized for a numerical and not semantical goal. As seen above, this results in quite some flexibility how the mode will generalize. This explains some of the bizarre hallucinations, where the answer certainly feels like the AI just threw a dice. In the end the output is the result of a model that picked a pretty random fit in an otherwise underspecified space. There are techniques to reduce the impact of the lack of biases around models and training algorithms, but that is a more technical topic and does not concern us here.
+Model and Algorithm Bias are less prominently discussed when we talk about modern AI models, but they are absolutely worth keeping in mind as well. Typical large scale AI models have billions of parameters and hence very little model bias, coupled with a training algorithm that is usually optimized for a numerical and not semantical goal. As seen above, this results in quite some flexibility how the model will generalize. This explains some of the bizarre hallucinations, where the answer certainly feels like the AI just threw a dice. In the end the output is the result of a model that picked a pretty random fit in an otherwise underspecified space. There are techniques to reduce the impact of the lack of biases around models and training algorithms, but that is a more technical topic and does not concern us here.
 
 ### Can we fix unwanted Data Bias?
 
@@ -79,6 +79,7 @@ In short: AI needs bias to learn. Much of this bias simply describes how our wor
 A human, who never left the UK, will be exposed to lots of information about villains with a thick German accent. But if that person is just little open-minded, there is plenty of other material around that puts this bias into (historical) perspective. Humans – who are willing to adjust for their biases – can do this, but it requires connecting very different types of information they learn through observation but even more likely through reading and debating with others.
 
 So far, we can only address some obvious biases in AI system. We can't build AIs that can do adjust for their built-in biases based on other knowledge. Until we figure out how to do that -– if we ever do -- we need to continue to question their responses and detect the influence of those many other biases ourselves.
+
 
 
 

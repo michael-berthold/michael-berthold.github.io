@@ -7,7 +7,7 @@ permalink: /publications/
 ## Select Thought Leadership / Industry Commentary
 
 - Berthold, Michael [_Bias in KI ist schlecht – oder etwa doch nicht?_](https://www.bigdata-insider.de/bias-kuenstliche-intelligenz-probleme-auswirkungen-a-28e20a7fd7466770f90ef477d3686a17/), **BigData-Insider**, 4 March 2026.
-- 
+
 -   Berthold, Michael. [_3 risks hindering enterprise-ready AI --- and how low-code workflows help_](https://www.techradar.com/pro/3-risks-hindering-enterprise-ready-ai-and-how-low-code-workflows-help), **TechRadar**, 27 January 2026.
 
 -   Berthold, Michael. _Are Your AI Co-Pilots Trapping Data in Isolated Silos?_, **The New Stack**, 9 September 2025.

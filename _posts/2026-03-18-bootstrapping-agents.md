@@ -9,6 +9,8 @@ These and other variations of this sentence stop many AI projects before they ev
 
 The assumption behind all of this is simple: agents can only be as good as the information they start with. But there is another way to look at this: agents become better as we help them get access to better information.
 
+<!-- more -->
+
 It's a small shift in perspective but it changes fundamentally how AI projects begin. We don’t need a perfectly curated environment before starting. We can begin with an incomplete agent and let it improve through interaction with the people who already understand the system.
 
 *In the early stages, the agent’s most important asset is the human expert.*

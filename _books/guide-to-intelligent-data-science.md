@@ -6,7 +6,7 @@ date: 2020-01-01
 excerpt: "This core textbook continues to provide a hands-on instructional approach to many data science techniques, and explains how these are used to solve real world problems. The work balances the practical aspects of applying and using data science techniques with the theoretical and algorithmic underpinnings from mathematics and statistics."
 cover: "/assets/img/books/Michael-Berthold-Books-Guide-to-Intelligent-Data-Science.webp"
 alt: "Cover of Guide to Intelligent Data Science"
-button_label: "Buy now"
+button_label: "Book website with free teaching material"
 button_style: "default"
 external_url: "https://www.datascienceguide.org/index.html"
 lang: en

@@ -8,7 +8,7 @@ alt: "Placeholder cover image for Starten, lernen, verbessern - Playbook für KI
 source_name: "COMPUTERWORLD"
 author_line: "By Michael R. Berthold"
 
-featured: true
+featured: false
 
 link_1_url: "https://www.computerworld.ch/themen/kuenstliche-intelligenz-ki/starten-lernen-verbessern"
 link_1_label: "Zum Artikel"

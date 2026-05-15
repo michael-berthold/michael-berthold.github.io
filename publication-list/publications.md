@@ -1,5 +1,7 @@
 ## Recent Thought Leadership and Industry Commentary
 
+- Berthold, Michael [_Digitale Souveränität: Anspruch und Realität klaffen auseinander_](https://www.digitalbusiness-magazin.de/digitale-souveraenitaet-anspruch-und-realitaet-klaffen-auseinander-a-a8f0addac0067e6bc48efcf88282b7c3/), **Digital Business**, 28 April 2026.
+
 - Berthold, Michael [_Werden wir KI jemals vertrauen können?_](https://www.it-daily.net/it-management/ki/ki-jemals-vertrauen-koennen), **it-daily.net**, 13 April 2026. [https://michael-berthold.github.io/musings/2026-04-15-trusting-ai/](English Version)
 
 - Berthold, Michael [_Starten, lernen, verbessern. Playbook für KI-Agenten_](https://www.computerworld.ch/themen/kuenstliche-intelligenz-ki/starten-lernen-verbessern), **Computerworld.ch**, 13 April 2026. [https://michael-berthold.github.io/musings/2026-03-18-bootstrapping-agents/](English Version)

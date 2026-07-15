@@ -1,6 +1,6 @@
 ## Recent Thought Leadership and Industry Commentary
 
-- Berthold, Michael [_Vertrauen auf Knopfdruck? Warum erklärbare KI zur Schlüsselfrage wird_](https://www.it-daily.net/it-management/ki/erklaerbare-ki-zur-schluesselfrage), **it-daily.net**, 12 June 2026.
+- Berthold, Michael [_Vertrauen auf Knopfdruck? Warum erklärbare KI zur Schlüsselfrage wird_](https://itwelt.at/news/topmeldung/vertrauen-auf-knopfdruck-warum-erklaerbare-ki-zur-schluesselfrage-wird/), **IT WELT.at**, 11 June 2026 and **it-daily.net** [(article)](https://www.it-daily.net/it-management/ki/erklaerbare-ki-zur-schluesselfrage), 12 June 2026.
 
 - Berthold, Michael [_Digitale Souveränität: Anspruch und Realität klaffen auseinander_](https://www.digitalbusiness-magazin.de/digitale-souveraenitaet-anspruch-und-realitaet-klaffen-auseinander-a-a8f0addac0067e6bc48efcf88282b7c3/), **Digital Business**, 28 April 2026.
 

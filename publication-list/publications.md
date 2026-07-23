@@ -1,16 +1,16 @@
 ## Recent Thought Leadership and Industry Commentary
 
-- Berthold, Michael [_Die Zukunft des Programmierens: Verhalten beschreiben statt Code schreiben_](https://www.bigdata-insider.de/vibe-coding-praezise-anforderungen-software-verhalten-a-ab882390524c11d3ab27f2a2710d1409/), **Big Data Insider**, 17 July 2026. [https://michael.berthold.org/musings/2026-07-21-modern-programming-defines-behavior/](English Version)
+- Berthold, Michael [_Die Zukunft des Programmierens: Verhalten beschreiben statt Code schreiben_](https://www.bigdata-insider.de/vibe-coding-praezise-anforderungen-software-verhalten-a-ab882390524c11d3ab27f2a2710d1409/), **Big Data Insider**, 17 July 2026. [English Version](https://michael.berthold.org/musings/2026-07-21-modern-programming-defines-behavior/)
 
 - Berthold, Michael [_Vertrauen auf Knopfdruck? Warum erklärbare KI zur Schlüsselfrage wird_](https://itwelt.at/news/topmeldung/vertrauen-auf-knopfdruck-warum-erklaerbare-ki-zur-schluesselfrage-wird/), **IT WELT.at**, 11 June 2026 and **it-daily.net** ([article](https://www.it-daily.net/it-management/ki/erklaerbare-ki-zur-schluesselfrage)), 12 June 2026.
 
 - Berthold, Michael [_Digitale Souveränität: Anspruch und Realität klaffen auseinander_](https://www.digitalbusiness-magazin.de/digitale-souveraenitaet-anspruch-und-realitaet-klaffen-auseinander-a-a8f0addac0067e6bc48efcf88282b7c3/), **Digital Business**, 28 April 2026.
 
-- Berthold, Michael [_Werden wir KI jemals vertrauen können?_](https://www.it-daily.net/it-management/ki/ki-jemals-vertrauen-koennen), **it-daily.net**, 13 April 2026. [https://michael-berthold.github.io/musings/2026-04-15-trusting-ai/](English Version)
+- Berthold, Michael [_Werden wir KI jemals vertrauen können?_](https://www.it-daily.net/it-management/ki/ki-jemals-vertrauen-koennen), **it-daily.net**, 13 April 2026. [English Version](https://michael-berthold.github.io/musings/2026-04-15-trusting-ai/)
 
-- Berthold, Michael [_Starten, lernen, verbessern. Playbook für KI-Agenten_](https://www.computerworld.ch/themen/kuenstliche-intelligenz-ki/starten-lernen-verbessern), **Computerworld.ch**, 13 April 2026. [https://michael-berthold.github.io/musings/2026-03-18-bootstrapping-agents/](English Version)
+- Berthold, Michael [_Starten, lernen, verbessern. Playbook für KI-Agenten_](https://www.computerworld.ch/themen/kuenstliche-intelligenz-ki/starten-lernen-verbessern), **Computerworld.ch**, 13 April 2026. [English Version](https://michael-berthold.github.io/musings/2026-03-18-bootstrapping-agents/)
 
-- Berthold, Michael [_Bias in KI ist schlecht – oder etwa doch nicht?_](https://www.bigdata-insider.de/bias-kuenstliche-intelligenz-probleme-auswirkungen-a-28e20a7fd7466770f90ef477d3686a17/), **BigData-Insider**, 4 March 2026. [https://michael-berthold.github.io/musings/2026-03-04-bias-in-ai-is-bad-but-is-it-really/](English Version)
+- Berthold, Michael [_Bias in KI ist schlecht – oder etwa doch nicht?_](https://www.bigdata-insider.de/bias-kuenstliche-intelligenz-probleme-auswirkungen-a-28e20a7fd7466770f90ef477d3686a17/), **BigData-Insider**, 4 March 2026. [English Version](https://michael-berthold.github.io/musings/2026-03-04-bias-in-ai-is-bad-but-is-it-really/)
 
 -   Berthold, Michael. [_3 risks hindering enterprise-ready AI --- and how low-code workflows help_](https://www.techradar.com/pro/3-risks-hindering-enterprise-ready-ai-and-how-low-code-workflows-help), **TechRadar**, 27 January 2026.
 

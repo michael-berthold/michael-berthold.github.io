@@ -36,7 +36,7 @@ Software engineering had that problem for decades – users tended to have all s
 poorly. And at the end, the delivered program did not really do what they truly wanted. Which is why we invented requirement documents and
 software specifications.
 
-### Beyond Spec Driven Development
+### Beyond Spec Driven Development.
 
 Someone recently claimed that AI will allow us to turn specifications into code and I totally agree with that. I just think that those
 specifications will look different to what we are used to. They will be more of a mix of a requirement document and a specification
@@ -54,7 +54,7 @@ There is another interesting side effect, of course. We need our AI to translate
 Ideally, when we feed in the same document, we get the same code. Or, maybe a tad bolder: we get code that is guaranteed to fulfill the
 specification, that is, code that exhibits the intended *behavior*.
 
-### AI will do the coding for us -- if we tell it *what* we want
+### AI will do the coding for us -- if we tell it *what* we want.
 
 In the end, AI will act as a compiler, translating well-specified behavior into an executable program. This has lots of interesting side
 effects: we may be able to ask the AI to translate the same document for different underlying languages, operating systems, or hardware.
@@ -65,7 +65,7 @@ But it goes both ways: this type of document can also be used by the AI to ident
 can proactively ask the human for additional information. As more such documents become part of the AI training material, they will
 be able to identify common patterns and flag ambiguities or unusual assumptions in a given behavior specification.
 
-### CS does what it does best: Keep abstracting...
+### Computer Science continues to do what it does best: Keep abstracting.
 
 Programming will evolve to another level of abstraction once we figure out what a suitable AI- and human-compatible behavior
 specification language looks like *and* come up with reliable ways to make an AI translate this into actual computer code.

@@ -1,6 +1,6 @@
 ---
 title: Modern Programming Will Specify Behavior, Not Code.
-date: 2025-07-21
+date: 2026-07-21
 excerpt: "Describing behavior will replace writing code when it comes to using AI to develop future applications..."
 author_line: "By Michael R. Berthold"
 lang: en
@@ -74,14 +74,17 @@ simply describing the “what”.
 
 For that we need a language that retains maximum human expressiveness while remaining minimally ambiguous – that tension is one
 of the reasons why informal prompting for program generation breaks down for more complex but also for enterprise-grade problems.
+Note that we may still have - previously written by our specilists in the IT department - a more technical specification document
+underneath the hood, outlining architectual and more technical requirements. But the user more concerned about the actual
+behavior will not need to worry about that.
 
 What will this look like in the future? People will learn to communicate about a program’s functionality in a suitably intuitive
 yet formal language. They may still communicate with the AI in a colloquial tone, but they can go to that behavior specification
-as a “reliability layer” at any time to double-check that the AI really understood what they wanted. This is similar to formal
-specification languages and other formal software engineering methods in the past. But AI will finally make these formal methods
-practical because humans no longer need to author them alone.
+as a “reliability layer” at any time to double-check that the AI really understood what they wanted.
 
-The future of programming will no longer be editing source code, but creating structured descriptions of desired behavior that AI
-can translate into working software.
+In the end, this feels quite similar to formal specification languages and other formal software engineering methods from the past.
+But AI will finally make these methods practical because humans no longer need to author them alone. The future of programming
+will no longer be editing source code, but creating structured descriptions of desired behavior that AI can translate into working
+software.
 
 

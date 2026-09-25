@@ -1,5 +1,7 @@
 ## Recent Thought Leadership and Industry Commentary
 
+- Berthold, Michael [_Milliarden Tokens für nichts: Die Kosten des falschen Kontexts_](https://www.it-daily.net/it-management/ki/tokens-kosten-falscher-kontext), **IT-Daily**, 21 Sept 2026.
+
 - Berthold, Michael [_KI-Bias verstehen, Vertrauen schaffen, Risiko begrenzen: Was Unternehmen jetzt tun sollten_](https://digitaleweltmagazin.de/fachbeitrag/ki-bias-verstehen-vertrauen-schaffen-risiko-begrenzen/), **Digitale Welt**, 21 July 2026.
 
 - Berthold, Michael [_Die Zukunft des Programmierens: Verhalten beschreiben statt Code schreiben_](https://www.bigdata-insider.de/vibe-coding-praezise-anforderungen-software-verhalten-a-ab882390524c11d3ab27f2a2710d1409/), **Big Data Insider**, 17 July 2026. [English Version](https://michael.berthold.org/musings/2026-07-21-modern-programming-defines-behavior/)

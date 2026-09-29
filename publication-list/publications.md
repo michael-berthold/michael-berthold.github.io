@@ -1,6 +1,6 @@
 ## Recent Thought Leadership and Industry Commentary
 
-- Berthold, Michael [_Milliarden Tokens für nichts: Die Kosten des falschen Kontexts_](https://www.it-daily.net/it-management/ki/tokens-kosten-falscher-kontext), **IT-Daily**, 21 Sept 2026.
+- Berthold, Michael [_Milliarden Tokens für nichts: Die Kosten des falschen Kontexts_](https://www.it-daily.net/it-management/ki/tokens-kosten-falscher-kontext), **IT-Daily**, 21 Sept 2026. [English Version](https://michael.berthold.org/musings/2026-09-29-billions-of-tokens-for-nothing.md)
 
 - Berthold, Michael [_KI-Bias verstehen, Vertrauen schaffen, Risiko begrenzen: Was Unternehmen jetzt tun sollten_](https://digitaleweltmagazin.de/fachbeitrag/ki-bias-verstehen-vertrauen-schaffen-risiko-begrenzen/), **Digitale Welt**, 21 July 2026.
 
@@ -10,11 +10,11 @@
 
 - Berthold, Michael [_Digitale Souveränität: Anspruch und Realität klaffen auseinander_](https://www.digitalbusiness-magazin.de/digitale-souveraenitaet-anspruch-und-realitaet-klaffen-auseinander-a-a8f0addac0067e6bc48efcf88282b7c3/), **Digital Business**, 28 April 2026.
 
-- Berthold, Michael [_Werden wir KI jemals vertrauen können?_](https://www.it-daily.net/it-management/ki/ki-jemals-vertrauen-koennen), **it-daily.net**, 13 April 2026. [English Version](https://michael-berthold.github.io/musings/2026-04-15-trusting-ai/)
+- Berthold, Michael [_Werden wir KI jemals vertrauen können?_](https://www.it-daily.net/it-management/ki/ki-jemals-vertrauen-koennen), **it-daily.net**, 13 April 2026. [English Version](https://michael.berthold.org/musings/2026-04-15-trusting-ai/)
 
-- Berthold, Michael [_Starten, lernen, verbessern. Playbook für KI-Agenten_](https://www.computerworld.ch/themen/kuenstliche-intelligenz-ki/starten-lernen-verbessern), **Computerworld.ch**, 13 April 2026. [English Version](https://michael-berthold.github.io/musings/2026-03-18-bootstrapping-agents/)
+- Berthold, Michael [_Starten, lernen, verbessern. Playbook für KI-Agenten_](https://www.computerworld.ch/themen/kuenstliche-intelligenz-ki/starten-lernen-verbessern), **Computerworld.ch**, 13 April 2026. [English Version](https://michael.berthold.org/musings/2026-03-18-bootstrapping-agents/)
 
-- Berthold, Michael [_Bias in KI ist schlecht – oder etwa doch nicht?_](https://www.bigdata-insider.de/bias-kuenstliche-intelligenz-probleme-auswirkungen-a-28e20a7fd7466770f90ef477d3686a17/), **BigData-Insider**, 4 March 2026. [English Version](https://michael-berthold.github.io/musings/2026-03-04-bias-in-ai-is-bad-but-is-it-really/)
+- Berthold, Michael [_Bias in KI ist schlecht – oder etwa doch nicht?_](https://www.bigdata-insider.de/bias-kuenstliche-intelligenz-probleme-auswirkungen-a-28e20a7fd7466770f90ef477d3686a17/), **BigData-Insider**, 4 March 2026. [English Version](https://michael.berthold.org/musings/2026-03-04-bias-in-ai-is-bad-but-is-it-really/)
 
 -   Berthold, Michael. [_3 risks hindering enterprise-ready AI --- and how low-code workflows help_](https://www.techradar.com/pro/3-risks-hindering-enterprise-ready-ai-and-how-low-code-workflows-help), **TechRadar**, 27 January 2026.
 

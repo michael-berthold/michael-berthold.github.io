@@ -8,8 +8,6 @@ seo_title: "Billions of Tokens for Nothing."
 seo_description: "A musing on how more powerful agents results in token usage explosion - and what we can do about it."
 ---
 
-# Billions of Tokens for Nothing: The Cost of Context
-
 Agentic setups allow AI to solve complex problems by designing and following a plan and using a variety of tools or even other agents. This massively expands the types of problems AI can help with. But it often also results in an exploding token usage - for context the AI usually doesn't need.
 
 <!-- more -->

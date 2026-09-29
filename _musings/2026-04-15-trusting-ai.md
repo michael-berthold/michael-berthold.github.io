@@ -1,6 +1,6 @@
 ---
 title: Can we ever trust AI?
-date: 2025-05-21
+date: 2026-04-15
 excerpt: "By now, AI models are used broadly. However, when it comes to trusting their outputs, we sometimes still run into a wall..."
 author_line: "By Michael R. Berthold"
 lang: en

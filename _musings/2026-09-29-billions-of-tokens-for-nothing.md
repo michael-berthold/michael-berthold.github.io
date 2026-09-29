@@ -1,5 +1,5 @@
 ---
-title: Billions of Tokens for Nothing: The Cost of Context
+title: Billions of Tokens for Nothing - The Cost of Context
 date: 2026-09-29
 excerpt: "Agentic setups expand the types of problems AI can help with. But it often also results in an exploding token usage..."
 author_line: "By Michael R. Berthold"
